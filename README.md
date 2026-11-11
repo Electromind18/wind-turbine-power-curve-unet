@@ -27,18 +27,13 @@ Saved checkpoint-comparison output; see [result provenance](docs/RESULTS_NOTES.m
 | [ACT-1 zero-shot inference](notebooks/ditunet-act1-zeroshot-inference.ipynb) | Frozen ACT-2 checkpoint applied to ACT-1 |
 | [Checkpoint comparison](notebooks/ditu-net-baseline-comparison.ipynb) | Site-adapted and published DITU-Net pipelines |
 
-Original filenames and all cell source text are preserved. Execution outputs and runtime metadata have been removed for readable version control. All repository figures come exclusively from the author-supplied `Github Repo Files.zip`. No notebook-embedded figures are included. The archive contains 132 figure files, 124 CSV/LaTeX table files, and 7 supporting records; all are retained with provenance in [the asset manifest](docs/asset-manifest.json).
-
-## Reported manuscript results
-
-**Result provenance:** The following manuscript values differ from some saved experiment exports. They are intentionally kept separate; see [result consistency notes](docs/RESULTS_NOTES.md).
 
 | Frozen deployment, S1 | Turbine-months | Normalized RMSE | R² |
 | --- | ---: | ---: | ---: |
 | ACT-2 / 2026 | 100 | 0.02864 | 0.9946 |
 | ACT-1 / 2025 | 240 | 0.05440 | 0.9578 |
 
-These values are transcribed from supplied manuscript Table 2, Panel A, rather than recomputed here. [Scenario results](tables/manuscript_table2_panel_a.csv) include S1–S3. Controller capability is a proxy reference; the geographic scope is two fleets within one wind corridor.
+These values are transcribed from manuscript Table 2, Panel A, rather than recomputed here. [Scenario results](tables/manuscript_table2_panel_a.csv) include S1–S3. Controller capability is a proxy reference; the geographic scope is two fleets within one wind corridor.
 
 ## Getting started
 
