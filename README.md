@@ -2,7 +2,7 @@
 
 Research notebooks accompanying **Site-adapted U-Net and classical benchmarking for wind turbine power curve modeling under SCADA data quality variation**.
 
-**Manuscript status:** Submitted to *Scientific Reports* (Nature Portfolio), as reported by the authors. This repository does not imply acceptance or publication. No publication DOI is available in the supplied materials.
+**Manuscript status:** Submitted to *Scientific Reports* (Nature Portfolio).
 
 **Authors:** Syed Muhammad Hamza Tauqeer, Shibli Nisar, Armoghan Khan, and Ammad Jadoon. Department of Electrical Engineering, Military College of Signals, National University of Sciences and Technology, Pakistan.
 
