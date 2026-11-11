@@ -1,0 +1,11 @@
+# Inferred direct dependencies; versions were not recorded in supplied notebooks.
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+Pillow
+torch
+torchvision
+jupyterlab
+nbformat
